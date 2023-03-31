@@ -44,3 +44,7 @@ steps:
 8. in latest-ui file
 9. upload -> add file -> goto local repo -> www -> select all ( dont select the folders ) -> open -> add folder -> select the folder (assets) -> upload
 10. in your project folder create a deploykey.txt file and upload it to the latest-ui file again
+
+
+
+#### https://442931939449.signin.aws.amazon.com/console ###
